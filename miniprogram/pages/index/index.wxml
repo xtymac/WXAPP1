@@ -1,7 +1,7 @@
 <!--index.wxml-->
 <view class="container">
 
-<a>Hello World</a>
+<a>Hello World12</a>
 
 
   <!-- 用户 openid -->
